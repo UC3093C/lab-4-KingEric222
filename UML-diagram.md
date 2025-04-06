@@ -1,3 +1,12 @@
+```mermaid
+---
+title: Animal Class Diagram
+config:
+    themeCSS:
+        ".abstract .label-group {
+            font-style:italic;
+        }"
+---
 classDiagram
     Animal <|-- Dog
     Animal <|-- Cat
@@ -29,3 +38,5 @@ classDiagram
         + makeSound() String
         + fly() void
     }
+
+```
