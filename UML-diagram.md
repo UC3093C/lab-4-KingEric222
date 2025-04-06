@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Animal Class Diagram
+title: Animal Diagram
 config:
     themeCSS:
         ".abstract .label-group {
